@@ -12,7 +12,7 @@ namespace CS
 {
     public partial class CSG : Form
     {
-        static readonly string template = @"Data Source={0};initial catalog={1};user Id={1};password={2};";
+        static readonly string template = @"Data Source={0};initial catalog={1};user Id={2};password={3};";
         public CSG()
         {
             InitializeComponent();
